@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AIO MODS MASTER</string>
+    <string name="second_title">EXPLORE</string>
+
+    <string name="tab_mods">Mods</string>
+    <string name="tab_textures">Textures</string>
+    <string name="tab_maps">Maps</string>
+    <string name="tab_seeds">Seeds</string>
+    <string name="tab_skins">Skins</string>
+    <string name="latest">Latest</string>
+    <string name="popular_mods">Popular Mods / Addons</string>
+    <string name="popular_maps">Popular Maps</string>
+    <string name="mods_title">Mods / Addons</string>
+    <string name="details">DETAILS</string>
+    <string name="downloading">DOWNLOADING</string>
+    <string name="premium">VIP PREMIUM</string>
+</resources>
